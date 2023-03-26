@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Muffin",
+        "price": "3.00",
+        "flavourOptions": ["Vanilla", "Chocolate"],
+        "image": "muffin.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cookie",
+        "price": "2.50",
+        "flavourOptions": ["Vanilla", "Chocolate"],
+        "image": "cookie.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Donut",
+        "price": "2.00",
+        "flavourOptions": ["Vanilla", "Chocolate", "Strawberry", "Banana"],
+        "image": "donut.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cake pop",
+        "price": "3.00",
+        "flavourOptions": ["Vanilla", "Chocolate", "Strawberry"],
+        "image": "cake_pop.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Brownie",
+        "price": "3.00",
+        "flavourOptions": ["Chocolate"],
+        "image": "brownie.jpg"
+    }
+]
